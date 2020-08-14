@@ -6,7 +6,7 @@ Comandos A Usar
 
 Instalar Archivos y Scrip
 
-apt update && apt upgrade
+apt update && apt upgrade -y;
 
 pkg install python2
 
