@@ -30,6 +30,11 @@ Generar Tarjetas
 
 python2 TD-CCGen.py -b 483039xxxxxxxxxx -u 20 -d -c
 
+Nota: si ya instalastes todo puedes usar los siguientes atajos
+
+cd/TD-CCGen
+python2 TD-CCGen.py
+
 El Conocimiento es Libre. Nunca Dejes de Aprender
 
 Copyright @Thony_DroidYT 2020
