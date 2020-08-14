@@ -32,9 +32,15 @@ python2 TD-CCGen.py -b 483039xxxxxxxxxx -u 20 -d -c
 
 Nota: si ya instalastes todo puedes usar los siguientes atajos
 
-cd/TD-CCGen
+cd
+
+ls
+
+TD-CCGen
 
 python2 TD-CCGen.py
+
+python2 TD-CCGen.py -b 483039xxxxxxxxxx -u 20 -d -c
 
 El Conocimiento es Libre. Nunca Dejes de Aprender
 
