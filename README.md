@@ -8,7 +8,7 @@ Instalar Archivos y Scrip
 
 apt update && apt upgrade -y;
 
-pkg install python2
+pkg install python2 -y;
 
 pkg install git -y;
 
