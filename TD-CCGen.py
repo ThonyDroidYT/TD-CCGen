@@ -15,7 +15,7 @@ print("")
 print "\033[1;31mHola \033[0m" + real + "\033[1;35m encantado de conocerte :)\033[0m"
 time.sleep(3)
 print("")
-print("\033[1;32mACCESO GRANTED!!\033[1;32m")
+print("\033[1;32mACCESO CONCEDIDO!!\033[1;32m")
 time.sleep(2)
 print("")
 #Informacion de ayuda
