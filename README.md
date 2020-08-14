@@ -10,7 +10,7 @@ apt update && apt upgrade -y;
 
 pkg install python2
 
-pkg install git
+pkg install git -y;
 
 git clone https://github.com/ThonyDroidYT/TD-CCGen
 
