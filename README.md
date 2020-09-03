@@ -4,7 +4,7 @@ TDCCGen Free Credit Card Generator Termux
 
 # Comandos A Usar
 
-Instalar Archivos y Scrip
+# Instalar Archivos y Scrip
 
 apt update && apt upgrade -y;
 
