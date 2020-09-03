@@ -26,7 +26,7 @@ ls
 
 python2 TD-CCGen.py
 
-Generar Tarjetas 
+# Generar Tarjetas 
 
 python2 TD-CCGen.py -b 483039xxxxxxxxxx -u 20 -d -c
 
@@ -44,4 +44,4 @@ python2 TD-CCGen.py -b 483039xxxxxxxxxx -u 20 -d -c
 
 El Conocimiento es Libre. Nunca Dejes de Aprender
 
-Copyright @Thony_DroidYT 2020
+# Copyright @Thony_DroidYT 2020
