@@ -2,7 +2,7 @@
 TDCCGen Free Credit Card Generator Termux
 
 
-Comandos A Usar
+# Comandos A Usar
 
 Instalar Archivos y Scrip
 
